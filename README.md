@@ -737,6 +737,7 @@ Supported devices:
     _TZE200_nw1r9hp6 / TS0601
     _TZE200_cf1sl3tj / TS0601
     _TZE200_9p5xmj5r / TS0601
+    _TZE204_bjzrowv2 / TS0601
 
 - Wall mounted Curtain Switch
     _TZ3000_dph3rpss / TS130F
